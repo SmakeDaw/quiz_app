@@ -22,7 +22,7 @@ class Quiz_Statel extends StatelessWidget{
             child: Column(
               mainAxisSize: MainAxisSize.min,
               children: [
-                Image.asset('smakedaw/quiz-logo.png',),
+                Image.asset('/images/quiz-logo.png',),
               const Text('Learn Flutter the fun way!', 
                 style: TextStyle(fontSize: 32, color: Colors.white,),
               ),
